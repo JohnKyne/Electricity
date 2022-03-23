@@ -1,0 +1,100 @@
+"",,,,,,,,Maximum,,,,,,,
+"",,,,,,,,,Installed,Full / Latest,,,,,
+"",,,,Ref.,,,,Export,,,,,,,
+No,Type,Category,Gate,,Generator,,,,Capacity,Connection,,Notes,County,,
+"",,,,Code,,,,Capacity,,,,,,,
+"",,,,,,,,,(MW),Date,,,,,
+"",,,,,,,,(MW),,,,,,,
+1,Wind,Onshore,PG,P25,Golagh,1,Full,15,15,Jul-1997,,,Donegal,25,N
+2,Wind,Onshore,PG,P38A,Kingsmountain,1,Full,23.75,25,May-2003,,,Sligo,10,N
+3,Wind,Onshore,PG,P38BDF,Meentycat,1,Full,70.96,72.4,Oct-2004,,,Donegal,38,Y
+4,Wind,Onshore,PG,TG13,Ballywater,1,Full,31.5,31.5,May-2005,,,Wexford,16,Y
+5,Wind,Onshore,PG,TG07,Booltiagh,1,Full,19.45,19.5,Aug-2005,,,Clare,13,Y
+6,Wind,Onshore,PG,P33,Derrybrien,1,Full,59.5,59.5,Oct-2005,Gort,,Galway,70,Y
+7,Wind,Onshore,PG,TG11,Coomagearlahy,1,Full,42.5,45,Mar-2006,,,Kerry,15,Y
+8,Wind,Onshore,1,TG47,Midas,1,Full,29.8,32.45,JPuhl-a2s0e07,Glanlee 1,,Kerry,23,Y
+9,Wind,Onshore,2,TG35,Ballywater,2,Full,10.5,10.5,Aug-2007,,,Wexford,5,Y
+"",,,,,,,,,,Connection,,,,,
+10,Wind,Onshore,PG,TG06,Mountain Lodge,1,Full,24.8,25.5,Apr-2008,,,Cavan,17,Y
+"",,,,,,,,,,Full / Partial,,,,,
+11,Wind,Onshore,1,TG12,Pallas,1,Full,37.8,40,Jun-2008,Clahane 1,,Kerry,20,Y
+12,Wind,Onshore,1,TG18,Coomacheo,1,Full,41.225,41.4,Jun-2008,,,Cork,18,Y
+13,Wind,Onshore,2,TG50,Coomagearlahy,2,Full,8.5,8.5,Mar-2009,,,Kerry,10,Y
+14,Wind,Onshore,2,TG52,Mountain Lodge,3,Full,5.82,6,Mar-2009,,,Cavan,4,Y
+15,Wind,Onshore,2,TG54,Coomagearlahy,3,Full,30,32.5,Jun-2009,,,Kerry,13,Y
+16,Wind,Onshore,2,DG187,Coomacheo,2,Full,18,18.4,Jul-2009,,,Cork,8,Y
+17,Wind,Onshore,2,TG55,Lisheen,1,Full,36,36,Jul-2009,,,Tipperary,18,Y
+18,Wind,Onshore,1,TG65,Meentycat,2,Full,14,16.1,Oct-2009,,,Donegal,7,Y
+19,Wind,Onshore,PG,P38-1,Bindoo,1a,Full,48,48,Oct-2009,Ratrussan,,Cavan,32,Y
+20,Wind,Onshore,2,TG29,Boggeragh,1,Full,57,57,Dec-2009,,,Cork,19,Y
+21,Wind,Onshore,2,DG141,Dromada,1,Full,28.5,28.5,Dec-2009,,,Limerick,19,Y
+22,Wind,Onshore,2,TG23a,Garvagh,1a,Full,26,26,Jun-2010,Glebe,,Leitrim,13,Y
+23,Wind,Onshore,2,TG23c,Garvagh,1c,Full,22,22,Jun-2010,Tullynahaw,,Roscommon,11,Y
+24,Wind,Onshore,2,TG40,Kingsmountain,2,Full,11.05,11.05,Jun-2010,,,Sligo,13,Y
+25,Wind,Onshore,2,DG88,Castledockrell,1,Full,20,20.7,Jan-2011,,,Wexford,9,Y
+26,Wind,Onshore,2,DG172,Castledockrell,2,Full,2,2.3,Jan-2011,,Wexford,1,Y
+27,Wind,Onshore,2,DG189,Castledockrell,3,Full,3.3,2.3,Jan-2011,,Wexford,1,Y
+28,Wind,Onshore,2,DG201,Castledockrell,4,Full,16.1,16.1,Jan-2011,,Wexford,7,Y
+29,Wind,Onshore,2,TG55a,Lisheen,2,Full,23,24,May-2013,,Tipperary,12,Y
+30,Wind,Onshore,2,TG38,Booltiagh,2,Full,12,12,Sep-2013,Booltiagh 2 & 3 (TG38 & TG39),Clare,6,Y
+31,Wind,Onshore,1,TG22a,Athea,1a,Full,34.35,34.35,Feb-2014,,Limerick,16,Y
+"",,,,,,,,,,,Glentanemacelligot 1,,,
+32,Wind,Onshore,2,TG24,Knockacummer,1,Full,100,100,PJhual-s2e015,Switched connection from,Cork,40,Y
+"",,,,,,,,,,Connection,DSO to TSO in Nov-2018,,,
+33,Wind,Onshore,3,TG66,Mountlucas,1,Full,79.2,84,FullN /o Pva-r2t0ia1l4,,Offaly,28,Y
+34,Wind,Onshore,3,TG69,Kill Hill,1,Full,36,36,Dec-2014,,Tipperary,16,Y
+35,Wind,Onshore,3,DG135,Woodhouse,1,Full,20,20,Jun-2015,,Waterford,8,Y
+36,Wind,Onshore,2,DG50,Cloghboola,1,Full,46,48,Oct-2015,Knocknagashel,Kerry,16,Y
+37,Wind,Onshore,3,TG102,Boggeragh,2,Full,65.7,65.7,Jun-2016,Knockduff + Killavoy 1 (DG200),Cork,26,Y
+38,Wind,Onshore,3,DG308,Mulreavy,2,Full,5.4,5,Oct-2016,Meenadreen South 2,Donegal,2,Y
+39,Wind,Onshore,3,TG94,Sliabh Bawn,1,Full,58,64,Dec-2016,,Roscommon,20,Y
+"",,,,,,,,,,,Mulreavy 1 (82MW)(TG51) +,,,
+40,Wind,Onshore,2,TG51,Mulreavy,1,Full,89.85,90,Feb-2017,Croaghnameal 1 (4.25MW)(DG198) +,Donegal,36,Y
+"",,,,,,,,,,,Meenadreen South 1 (3.6MW)(DG65),,,
+41,Wind,Onshore,3,DG92,Uggool,1,Full,64,64,Feb-2017,,Galway,22,Y
+42,Wind,Onshore,1,TG15,Moneypoint,1,Full,17.25,17.25,Jun-2017,,Clare,5,Y
+43,Wind,Onshore,3,TG58,Seecon,1,Full,105,108,Aug-2017,,Galway,36,Y
+44,Wind,Onshore,2,DG49,Cordal,1,Full,35.85,35.2,Mar-2018,,Kerry,11,Y
+45,Wind,Onshore,3,DG272,Cordal,2,Full,54,54.4,Mar-2018,Merged with Cordal 3,Kerry,17,Y
+46,Wind,Onshore,3,TG83,Clahane,2,Full,13.8,13.8,Aug-2018,,Kerry,6,Y
+"",,,,,,,,,,,Hybrid: 37.05 MW Wind,,,
+47,Wind,Onshore,N/A,TG256,Kelwin,1,Full,37.05,37.05,Sep-2018,(including 2.6MW batteries),Kerry,13,Y
+"",,,,,,,,,,,+ 2 MW Diesel,,,
+48,Wind,Onshore,2,TG49,Knockalassa,1,Full,26.875,27.5,Oct-2018,,Clare,11,Y
+"",,,,,,,,,,,26.875 MW Gate 2 +,,,
+49,Wind,Onshore,2&3,DG73,Boolinrudda,1,Full,44.515,45,Oct-2018,,Clare,18,Y
+"",,,,,,,,,,,17.64MW Gate 3,,,
+50,Wind,Onshore,3,DG191,Knockalough,1,Full,33.6,35.2,Jan-2019,,Galway,11,Y
+51,Wind,Onshore,3,TG25,Oweninny,1,Full,89,92.8,Oct-2019,,Mayo,29,Y
+"",,,,,,,,,,Phase,,,,
+52,Wind,Onshore,3,TG34,Grousemount,1,Full,114.2,114.2,Apr-2020,,Kerry,38,Y
+"",,,,,Beenanaspuck &,,,,,Connection,,,,
+53,Wind,Onshore,2,DG141a,,1,Full,23.15,23.1,Apr-2020,23.15 MW Wind + 11 MW Battery,Kerry,7,Y
+"",,,,,Tobertoreen,,,,,Full / Partial,,,,
+54,Wind,Onshore,3,TG44,Carrigdangan,1,Full,54.3,54.3,Jan-2021,,Cork,,Y
+1,Hydro,PG,Ardnacrusha,1,Full,22,22 1929,,,Clare
+2,Hydro,PG,Ardnacrusha,2,Full,22,22 1929,,,Clare
+3,Hydro,PG,Ardnacrusha,3,Full,21,21 1929,,,Clare
+4,Hydro,PG,Ardnacrusha,4,Full,21,21 1934,,,Clare
+5,Hydro,PG,Erne,1,Full,10,10 1950,,Cliff,Donegal
+6,Hydro,PG,Erne,2,Full,10,10 1955,,Cliff,Donegal
+7,Hydro,PG,Erne,3,Full,22.5,22.5 1951,,Cathleen's Fall,Donegal
+8,Hydro,PG,Erne,4,Full,22.5,2P2h.5ase 1952,,Cathleen's Fall,Donegal
+9,Hydro,PG,Lee,1,Full,15,Conn1e5ction1 952,,Inniscarra,Cork
+10,Hydro,PG,Lee,2,Full,4,Full / 4Partia1l 952,,Inniscarra,Cork
+11,Hydro,PG,Lee,3,Full,8,8 1952,,Carrigadrohid,Cork
+12,Hydro,PG,Liffey,1,Full,15,15 1944,,Pollaphuca,Wicklow
+13,Hydro,PG,Liffey,2,Full,15,15 1944,,Pollaphuca,Wicklow
+14,Hydro,PG,Liffey,3,Full,0.18,0.18 1944,,Pollaphuca,Wicklow
+15,Hydro,PG,Liffey,4,Full,4,4 1944,,Pollaphuca,Wicklow
+ll information provided in this official EirGrid site is provided for information purposes only and does not constitute a legal contract between EirGrid and any
+erson or entity unless otherwise specified. Information on this official EirGrid web site is subject to change without prior notice. Although every reasonable
+"ffort is made to present current and accurate information, EirGrid makes no guarantees of any kind. Whilst EirGrid strives to ensure as high a level of accuracy"
+"s possible, EirGrid makes no warranties or representations of any kind with respect to the content, quality and accuracy of this information. EirGrid does not"
+ccept liability for any loss or damage arising from the use of this Information or reliance on it. When projects have merged from different Gates the Gate
+ssigned shall be on the basis of the Gate from which the majority of the capacity was offered.
+ote: This report contains TSO-connected renewable generation data only.
+he DSO-connected renewable generators lists can be found on the DSO website:
+ttps://esbnetworks.ie/new-connections/generator-connections/generator-connection-statistics
+ote: Knockacummer windfarm has switched from a TSO to a DSO grid connection.
+oth the TSO and DSO connected wind reports have been updated accordingly.

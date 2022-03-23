@@ -1,0 +1,42 @@
+Node and,Ref,Name,,Type,Type,,Signed
+Associated Voltage,,,,,,MEC,Date*
+"",,,,,,(MW),
+Aghada 220 kV,TG377,Aghada BESS 01,,post Gate 1,Battery,19.0,Aug 2020
+Aghada 220 kV,TG389,Aghada BESS 02,,post Gate 1,Battery,159.0,Aug 2020
+Ballinknocka1n1e0 kV,TG299,Ballinknockane Solar Farm,,Non GPA,Solar,50.0,Dec 2018
+Clahane 110 kV,TG275,Banemore Solar Farm,,Non GPA,Solar,34.0,Jun 2018
+Shannonbrid1g1e0 kV,TG289,Blackwater Bog Solar 1,,ECP-1,Solar,65.0,Jul 2020
+Blundlestown110 kV,TG263,Blundlestown,,Non GPA,Solar,60.0,Apr 2021
+Knockraha kV,TG327,Celtic Interconnector,,PCI,Interconnect,700.0,
+"",,,,,or,,
+Clonfad 110 kV,TG315,Clonfad Solar,,ECP-1,Solar,100.0,Oct 2020
+Corduff 110 kV,TG385,Corduff Flexgen,,T-4 2022/23,OCGT,70.0,Feb 2020
+Drombeg 110 kV,TG322,Drombeg Solar Park,,Non GPA,Solar,50.0,Oct 2018
+Gallanstown110 kV,TG285,Gallanstown Solar,,Non GPA,Solar,119.0,Aug 2018
+Corderry 110 kV,TG270,Garvagh,,ECP-1,Solar,40.0,Oct 2020
+Gaskinstown110 kV,TG328,Gaskinstown Solar Farm,,ECP-1,Solar,85.0,Aug 2020
+Garballagh 110 kV,TG271,Gillinstown Solar,,ECP-1,Solar,95.0,Jun 2020
+Gorman 110 kV,TG286,Gorman (Graigs)  Energy Storage,,ECP-1,Battery &,30.0,Aug 2019
+"",,Station,,,Inverter,,
+Gorman 110 kV,P283A,Gorman Energy Storage Station -,,ECP-1,Battery,20.0,Aug 2019
+"",,Extension,,,,,
+Great Island110 kV,TG288,Greenlink Interconnector,,PCI,Interconnect,504.0,Nov 2019
+"",,,,,or,,
+Harristown 110 kV,TG307,Harristown Solar PV,,Non GPA,Solar,42.3,Aug 2018
+Kilpaddoge kV,TG166b,Kelwin Power Plant- Phase 2,,Gate 3,Diesel,6.6,
+Lisdrum 110,,kV,TG320,Lisdrumdoagh Energy Storage,ECP-1,Hybrid,60.0,Sep 2019
+"",,,,Facility,,,,
+Coolnabacky110,,kV,TG282,Loughteague,Non GPA,Solar,55.0,Sep 2018
+Lysaghtstow1n10,,kV,TG418,Lysaghtstown Solar Park,ECP-2.1,Solar,87.0,
+Midleton 110,,kV,TG284,Monatooreen Solar,Non GPA,Solar,25.7,Aug 2018
+North Wall 220,,kV,P78,North Wall 5,T-4 2022/23,OCGT,120.0,May 2020
+Poolbeg 220,,kV,TG382,Poolbeg BESS,T-4 2022/23,Battery,75.0,Sep 2019
+Kilteel 110,,kV,TG336,Porterstown Battery Storage,ECP-1,Battery,30.0,Oct 2019
+"",,,,Facility,,,,
+Rathnaskillo1g1e0,,kV,TG295,Rathnaskilloge,ECP-1,Solar,95.0,Aug 2020
+Rosspile 110,,kV,TG272,Rosspile Solar Farm,Non GPA,Solar,95.0,May 2018
+Shannonbrid2g2e0,,kV,TG334,Shannonbridge B ESS,Gate 3,Battery,63.2,Sep 2018
+Shantallow 110,,kV,TG280,Shantallow Solar,Non GPA,Solar,35.0,Nov 2018
+Irishtown 110,,kV,TG380,South Wall BESS,T-4 2022/23,Battery,30.0,Jul 2020
+Timahoe No1rt1h0,,kV,P275,Timahoe North,,Solar,70.0,May 2018
+Tullabeg 110,,kV,TG308,Tullabeg Solar Park,Non GPA,Solar,50.0,Dec 2018

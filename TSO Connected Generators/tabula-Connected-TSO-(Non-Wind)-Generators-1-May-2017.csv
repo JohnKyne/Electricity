@@ -1,0 +1,52 @@
+Node and Associated,Name,,Type,MEC (MW),Year of
+Voltage,,,,,Connection
+Aghada 220 kV,Aghada (1),Gas,,258.000,Pre 2000
+Aghada 220 kV,Aghada (11),Gas/DO,,90.000,Pre 2000
+Aghada 220 kV,Aghada (12),Gas/DO,,90.000,Pre 2000
+Aghada 220 kV,Aghada (14),Gas/DO,,90.000,Pre 2000
+Longpoint 220 kV,Aghada CCGT,CCGT,,431.000,2010
+Aughinish 110 kV,Alumina CHP (1),CHP,,130.000,2005
+Ardnacrusha 110 kV,Ardnacrusha Hydro (1),Hydro,,22.000,Pre 2000
+Ardnacrusha 110 kV,Ardnacrusha Hydro (2),Hydro,,22.000,Pre 2000
+Ardnacrusha 110 kV,Ardnacrusha Hydro (3),Hydro,,21.000,Pre 2000
+Ardnacrusha 110 kV,Ardnacrusha Hydro (4),Hydro,,21.000,Pre 2000
+Irishtown 220 kV,Dublin Bay Power,Gas,,415.000,2002
+Woodland 400 kV,East West Interconnector,Interconnector,,500.000,2012
+Cushaling 110 kV,Edenderry Peaking,OCGT,,116.000,2010
+Cushaling 110 kV,Edenderry Power,Peat,,121.500,Pre 2000
+Cathaleen's Fall 110 kV,Erne Cathleens Fall Hydro (3),Hydro,,22.500,Pre 2000
+Cathaleen's Fall 110 kV,Erne Cathleens Fall Hydro (4),Hydro,,22.500,Pre 2000
+Cliff 110 kV,Erne Cliff Hydro (1),Hydro,,10.000,Pre 2000
+Cliff 110 kV,Erne Cliff Hydro (2),Hydro,,10.000,Pre 2000
+Great Island 220 kV,Great Island CCGT,CCGT,,216.000,2014
+Great Island 220 kV,Great Island CCGT,CCGT,,215.000,2014
+Huntstown 220 kV,Huntstown (1),Gas,,352.000,2002
+Corduff 220 kV,Huntstown (2),Gas,,412.000,2007
+Carrigadrohid 110 kV,Lee Carrigadrohid Hydro (3),Hydro,,8.000,Pre 2000
+Inniscarra 110 kV,Lee Inniscarra Hydro (1),Hydro,,15.000,Pre 2000
+Inniscarra 110 kV,Lee Inniscarra Hydro (2),Hydro,,4.000,Pre 2000
+Pollaphuca 110 kV,Liffey Hydro (1),Hydro,,15.000,Pre 2000
+Pollaphuca 110 kV,Liffey Hydro (2),Hydro,,15.000,Pre 2000
+Pollaphuca 110 kV,Liffey Hydro (3),Hydro,,0.180,Pre 2000
+Pollaphuca 110 kV,Liffey Hydro (4),Hydro,,4.000,Pre 2000
+Lanesboro 110 kV,Lough Ree Power,Peat,,94.000,Pre 2000
+Marina 110 kV,Marina,Gas/DO,,85.000,Pre 2000
+Moneypoint 380 kV,Moneypoint (1),Coal,,287.500,Pre 2000
+Moneypoint 380 kV,Moneypoint (2),Coal,,287.500,Pre 2000
+Moneypoint 380 kV,Moneypoint (3),Coal,,287.500,Pre 2000
+North Wall 220 kV,North Wall (5),Gas/DO,,109.000,Pre 2000
+Derryiron,110 kV,Rhode PCP (1),Distillate,51.800,2004
+Derryiron,110 kV,Rhode PCP (2),Distillate,51.800,2004
+Shellybanks,220 kV,Shellybanks Combined Cycle,Gas/DO,230.000,Pre 2000
+Shellybanks,220 kV,Shellybanks Combined Cycle,Gas/DO,230.000,Pre 2000
+Tarbert,110 kV,Tarbert (1),HFO,54.000,Pre 2000
+Tarbert,110 kV,Tarbert (2),HFO,54.000,Pre 2000
+Tarbert,220 kV,Tarbert (3),HFO,240.700,Pre 2000
+Tarbert,220 kV,Tarbert (4),HFO,240.700,Pre 2000
+Turlough Hill,220 kV,Turlough Hill (1),Pumped Storage Hydro,73.000,Pre 2000
+Turlough Hill,220 kV,Turlough Hill (2),Pumped Storage Hydro,73.000,Pre 2000
+Turlough Hill,220 kV,Turlough Hill (3),Pumped Storage Hydro,73.000,Pre 2000
+Turlough Hill,220 kV,Turlough Hill (4),Pumped Storage Hydro,73.000,Pre 2000
+Tynagh,220 kV,Tynagh,Gas,404.000,2006
+Shannonbridge,110 kV,West Offaly Power,Peat,141.000,2005
+Glanagow,220 kV,Whitegen,CCGT,445.000,2010
